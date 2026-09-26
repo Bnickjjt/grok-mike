@@ -1,0 +1,13 @@
+{
+  "QA/test_mike_engine.py": "017fb044bddae04aa9c172c09b478bd0bb259362d536c2cda2251bf884b022dd",
+  "examples/make_synthetic_fixture.py": "3347ffa920c270e1d99b0afec961969164acc7b39647e9344e5c1d1ae4fe9162",
+  "mike-v1-dossier-and-metrics": "04c45dcd7b2968a6d821a59df2fd69bae9d7743d8df9008183b5193f09a60bb7",
+  "mike-v1-event-investigation": "8ce214a8a02ce7a01762e2a0b05c74da0a3ce89c430cbb38e2f47207c7e93b63",
+  "mike-v1-evidence-and-provenance": "955070a8d4849090c278cbc08e1f9d257535d292d7879998dda7244278014ea8",
+  "mike-v1-independent-critique": "85bfae0d1f754d139483c571d26f61c6041028e6b03791540bebdaef375f5174",
+  "mike-v1-quality-and-portability": "c69d7ba58d9f782a01d107315b465bae2351fd6ef22648a3d2cecfd9516ac162",
+  "mike-v1-report-and-explain": "56cb62ae4eab63995a80836431d7a9e325c127e589afb1ed8ee3b0231d4bc735",
+  "mike-v1-setup-and-capabilities": "90b3152fae0704d4c3ecede8dc6c35801700cb0980ec4b8efad8c299d1f3062c",
+  "mike-v1-watch-and-update": "d5935046ea666c88aaef0636058320c718464c125e088ffceefebb1bac26fe51",
+  "runtime/mike_engine.py": "01eedc4a6ffa0e0ab0eb2332bf57457e6379f26058b1a27552055060cdbcf895"
+}
